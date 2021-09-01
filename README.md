@@ -1,7 +1,13 @@
-### Hi there 👋
-📫 How to reach me: 
-    Email: rev@informous.org
-    Matrix: @skmz:nerdsin.space
+# Nisixya / Revision
+
+📫 Where to reach me: 
+
+Email: rev@informous.org
+    
+Matrix: <code>@skmz:nerdsin.space</code>
+
+<em>ni zix yah</em>
+    
 <!--
 **nisixya/nisixya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
