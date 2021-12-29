@@ -1,10 +1,10 @@
 # Nisixya / Revision
 
-📫 Where to reach me: 
+📫 Contact: 
 
 Email: rev@informous.org
     
-Matrix: <code>@skmz:nerdsin.space</code>
+Matrix: <code>@satori:halogen.city</code>
 
 <em>ni zix yah</em>
     
